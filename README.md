@@ -13,7 +13,7 @@ Next, think about the style of your website.  We spent some time working with CS
 Before you build anything out though make a plan on paper first and then try to follow it instead of making things up as you go.  Use jsfiddle(http://jsfiddle.net/) to experiment with ideas.
 
 Other great resources you can use are: 
-+ [Mozilla Developer Netowrk HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
++ [Mozilla Developer Network HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 + [Mozilla Developer Network CSS Resources](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 + [W3Shools](http://www.w3schools.com/) 
 + [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
